@@ -1,0 +1,17 @@
+{
+  "name": "test-driven-palidromes",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Test Driving Development with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Sokos6",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.10.0",
+    "jest": "^23.6.0"
+  }
+}
