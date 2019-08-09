@@ -1,0 +1,20 @@
+{
+  "name": "test-driven-fizzbuzz",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Test Driven React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sokos6/test-driven-fizzbuzz.git"
+  },
+  "author": "Sokos6",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sokos6/test-driven-fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/Sokos6/test-driven-fizzbuzz#readme"
+}
