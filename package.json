@@ -5,7 +5,7 @@
   "description": "Test Driven React",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Sokos6/test-driven-fizzbuzz/issues"
   },
-  "homepage": "https://github.com/Sokos6/test-driven-fizzbuzz#readme"
+  "homepage": "https://github.com/Sokos6/test-driven-fizzbuzz#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
 }
